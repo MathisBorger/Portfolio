@@ -41,7 +41,7 @@ Cependant, le tennis et la lecture ne sont pas les seuls choses qui me caractér
 Depuis mon arrivée à l’IUT Informatique de Limoges, j'ai eu l'occasion de réaliser un grand nombre de projets très diversifiés touchant une bonne partie des domaines que regroupe l'informatique.
 
 - [Application composée de plusieurs mini-jeux](#application-composée-de-plusieurs-mini-jeux)
-- [Création d'une base de données](#création-d-une-base-de-données)
+- [Création d'une base de données](#création-dune-base-de-données)
 
 ### Application composée de plusieurs mini-jeux
 
