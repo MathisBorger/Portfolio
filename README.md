@@ -24,17 +24,17 @@ Guidelines for contributing to the project.
 
 Specify the license for your project.
 
-## Qui-suis-je? {#qui-suis-je?}
+## Qui-suis-je?
 ...
 
-## Projets {#projets}
+## Projets
 ...
 
-## Compétences {#compétences}
+## Compétences
 ...
 
-## Certifications {#certifications}
+## Certifications
 ...
 
-## Fiches SAÉ (Certificat de la complétion de mes années universitaires en BUT) {#fiches-sae}
+## Fiches SAÉ (Certificat de la complétion de mes années universitaires en BUT)
 ...
