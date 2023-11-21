@@ -1,6 +1,16 @@
 # Portfolio 2023-2024
 Suivez mon évolution professionnel au travers de mon portfolio (compétences, maitrise, ...)
 
+# Pour me contacter
+
+Si vous souhaitez me contacter, n'hésitez pas à utiliser l'une des méthodes suivantes :
+
+- **Email :** [mathisborger24@gmail.com](mailto:mathisborger24@gmail.com)
+- **LinkedIn :** [Mathis Borger](https://www.linkedin.com/in/mathis-borger-dev-logiciel/)
+- **Discord :** [thisma24](https://discord.com/users/thisma24)
+
+N'hésitez pas à me joindre pour discuter de projets, collaborations ou simplement pour échanger des idées.
+
 ## Table of Contents
 
 - [Qui-suis-je?](#qui-suis-je)
