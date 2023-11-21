@@ -3,10 +3,10 @@ Suivez mon évolution professionnel au travers de mon portfolio (compétences, m
 
 ## Table of Contents
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- [Qui suis-je?](#qui suis-je?)
+- [Projets](#projets)
+- [Compétences](#compétences)
+- [Certifications](#certifications)
 
 ## Installation
 
