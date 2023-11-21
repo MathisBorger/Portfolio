@@ -7,6 +7,7 @@ Suivez mon évolution professionnel au travers de mon portfolio (compétences, m
 - [Projets](#projets)
 - [Compétences](#compétences)
 - [Certifications](#certifications)
+- [License](#license)
 
 ## Installation
 
