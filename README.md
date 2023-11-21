@@ -53,7 +53,7 @@ Depuis mon arrivée à l’IUT Informatique de Limoges, j'ai eu l'occasion de r�
 
 ### Création d'une base de données
 
-### Installation d’un poste de développement Linux sur une machine virtuelle Débian
+### Installation d’un poste de développement Linux sur une machine virtuelle Debian
 
 ### Développement d'une application Latice avec une interface graphique
 
