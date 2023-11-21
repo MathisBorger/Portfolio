@@ -108,8 +108,8 @@ Au travers de ce projet, j'ai pu acquérir une meilleure expérience et une meil
 
 Si vous souhaitez me contacter, n'hésitez pas à utiliser l'une des méthodes suivantes :
 
-- **Email :** [mathisborger24@gmail.com](mailto:votre@email.com)
-- **LinkedIn :** [Votre Nom sur LinkedIn](lien_vers_votre_profil)
-- **Discord :** [#thisma24](lien_vers_votre_profil_discord)
+- **Email :** [mathisborger24@gmail.com](mailto:mathisborger24@gmail.com)
+- **LinkedIn :** [Mathis Borger](https://www.linkedin.com/in/mathis-borger-dev-logiciel/)
+- **Discord :** [thisma24](https://discord.com/users/thisma24)
 
 N'hésitez pas à me joindre pour discuter de projets, collaborations ou simplement pour échanger des idées.
