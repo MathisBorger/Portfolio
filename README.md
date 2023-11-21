@@ -42,7 +42,7 @@ Depuis mon arrivée à l’IUT Informatique de Limoges, j'ai eu l'occasion de r�
 
 - [Application composée de plusieurs mini-jeux](#application-composée-de-plusieurs-mini-jeux)
 - [Création d'une base de données](#création-dune-base-de-données)
-- [Installation d’un poste de développement Linux sur une machine virtuelle Debian](#installation-dun-poste-de-développement-linux-sur-une-machine-virtuelle-debian)
+- [Installation d’un poste de développement Linux sur une machine virtuelle Debian](#installation-dun-poste-de-développement-linux-sur-une-machine-virtuelle-Debian)
 - [Développement d'une application Latice avec une interface graphique](#développement-dune-application-latice-avec-une-interface-graphique)
 - [Installation d'un service réseau](#installation-dun-service-réseau)
 - [Exploitation d'une base de données](#exploitation-dune-base-de-données)
