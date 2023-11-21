@@ -3,7 +3,7 @@ Suivez mon évolution professionnel au travers de mon portfolio (compétences, m
 
 ## Table of Contents
 
-- [Qui suis-je?](#qui-suis-je?)
+- [Qui-suis-je?](#qui-suis-je?)
 - [Projets](#projets)
 - [Compétences](#compétences)
 - [Certifications](#certifications)
@@ -24,7 +24,7 @@ Guidelines for contributing to the project.
 
 Specify the license for your project.
 
-## Qui suis-je? {#qui-suis-je?}
+## Qui-suis-je? {#qui-suis-je?}
 ...
 
 ## Projets {#projets}
