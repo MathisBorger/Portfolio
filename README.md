@@ -1,17 +1,28 @@
 # Portfolio 2023-2024
 Suivez mon évolution professionnel au travers de mon portfolio (compétences, maitrise, ...)
 
-# Table of Contents
+## Table of Contents
 
-1. [Qui suis-je?](#qui-suis-je?)
-2. [Projets](#projets)
-   1. [Subsection 1.1](#subsection-1.1)
-   2. [Subsection 1.2](#subsection-1.2)
-3. [Compétences](#compétences)
-   1. [Subsection 2.1](#subsection-2.1)
-   2. [Subsection 2.2](#subsection-2.2)
-4. [Certifications](#certifications)
-5. [Fiches SAÉ](#fiches-sae)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Installation
+
+Provide instructions on how to install your project.
+
+## Usage
+
+Explain how to use your project.
+
+## Contributing
+
+Guidelines for contributing to the project.
+
+## License
+
+Specify the license for your project.
 
 ## Qui suis-je? {#qui-suis-je?}
 ...
