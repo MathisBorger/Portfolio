@@ -3,11 +3,10 @@ Suivez mon évolution professionnel au travers de mon portfolio (compétences, m
 
 ## Table of Contents
 
-- [Qui-suis-je?](#qui-suis-je?)
+- [Qui-suis-je?](#qui-suis-je)
 - [Projets](#projets)
 - [Compétences](#compétences)
 - [Certifications](#certifications)
-- [License](#license)
 
 ## Installation
 
