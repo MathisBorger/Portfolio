@@ -1,7 +1,7 @@
 # Portfolio 2023-2024
 Suivez mon évolution professionnel au travers de mon portfolio (compétences, maitrise, ...)
 
-# Pour me contacter
+## Pour me contacter
 
 Si vous souhaitez me contacter, n'hésitez pas à utiliser l'une des méthodes suivantes :
 
@@ -76,6 +76,9 @@ PARLER de mon expérience niveau maitre ...
 
 Développement d’une application Latice avec une interface graphique en utilisant le logiciel « SceneBuilder» pour faciliter la création de l’interface et le gestionnaire de version git
 
+Ce projet consiste à développer une application avec une interface graphique du nom de **Latice**. Cette application a été réalisé en binôme et devait être faites en utilisant le langage Java pour déterminer la base métier de l'application et le langage JavaFX pour créer l'interface graphique. Durant ce projet, il a été difficile de s'organiser pour savoir qui faisait quoi sachant que l'on devait dans un premier temps faire la base métier de l'application Latice. Malgrè un début difficile nous avons avancé pas à pas et réussi à réaliser l'application. 
+Cependant, nous avons rencontrés plusieurs problèmes. Le premier est que nous avions mélangé le code de la base métier et celui de l'interface graphique. Par conséquent, nous avons dû revoir l'architecture de notre application, séparé la base métier de l'interface graphique et optimiser les temps d'exécution
+
 
 ### Installation d'un service réseau
 
@@ -102,11 +105,13 @@ Au travers de ce projet, j'ai pu acquérir une meilleure expérience et une meil
 
 ## Compétences
 ...
+c'est un récapitulatif
 
 ## Certifications
 ...
+mettre tous les certificats / diplomes obtenus
 
-# Pour me contacter
+## Pour me contacter
 
 Si vous souhaitez me contacter, n'hésitez pas à utiliser l'une des méthodes suivantes :
 
