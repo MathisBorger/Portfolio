@@ -20,7 +20,7 @@ N'hésitez pas à me joindre pour discuter de projets, collaborations ou simplem
 
 ## Qui-suis-je?
 Bonjour,
-Je m’appelle **BORGER Mathis**, j’ai 19 ans et je suis actuellement **étudiant à l’IUT Informatique de Limoges** en 3ème année.  
+Je m’appelle **BORGER Mathis**, j’ai 20 ans et je suis actuellement **étudiant à l’IUT Informatique de Limoges** en 3ème année.  
 Je suis un passionné du tennis depuis l’âge de 6 ans et je joue dans un club de tennis chaque semaine. Je lis également des mangas en français depuis le collège et en anglais depuis le lycée pour améliorer mon niveau d’anglais qui était très faible. 
 
 ### Mon parcours tennistique
@@ -51,8 +51,6 @@ Cependant, le tennis et la lecture ne sont pas les seuls choses qui me caractér
 Depuis mon arrivée à l’IUT Informatique de Limoges, j'ai eu l'occasion de réaliser un grand nombre de projets très diversifiés touchant une bonne partie des domaines que regroupe l'informatique. Vous retrouverez la liste des projets que j'ai réalisé ci-dessous :
 
 - [Application composée de plusieurs mini-jeux](#application-composée-de-plusieurs-mini-jeux)
-- [Création d'une base de données](#création-dune-base-de-données)
-- [Installation d’un poste de développement Linux sur une machine virtuelle Debian](#installation-dun-poste-de-développement-Linux-sur-une-machine-virtuelle-Debian)
 - [Développement d'une application Latice avec une interface graphique](#développement-dune-application-latice-avec-une-interface-graphique)
 - [Installation d'un service réseau](#installation-dun-service-réseau)
 - [Exploitation d'une base de données](#exploitation-dune-base-de-données)
@@ -71,12 +69,6 @@ Parler des compétences acquises durant ce projet, ce que j'ai retenu et ce qui 
 ### HASKELL
 
 PARLER de mon expérience niveau maitre ...
-
-### Création d'une base de données
-
-![image](https://github.com/MathisBorger/Portfolio/assets/102658464/a87e084b-e018-415b-9d8a-0b28680fc280)
-
-Création d’une base de données à partir de données au format CSV et analyse des données sous forme graphique 
 
 ### Développement d'une application Latice avec une interface graphique
 
