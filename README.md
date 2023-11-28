@@ -62,13 +62,9 @@ Depuis mon arrivée à l’IUT Informatique de Limoges, j'ai eu l'occasion de r�
 ![image](https://github.com/MathisBorger/Portfolio/assets/102658464/93502d07-5a48-4034-afdc-f505633ed2a9)
 
 Pour ce premier projet que j'ai réalisé durant ma formation à l'IUT, je devais réaliser le développement de 4 jeux (Puissance4, Morpion, Allumettes, Devinette) en utilisant le langage Python. Ce projet a été réalisé en équipe avec un camarade classe afin qu'on puisse acquérir des connaissances et de l'expérience sur le travail d'équipe.
-Le projet nous a permis d'acquérir d'autres compétences et plsu particulièrement ce projet m'a permis de comprendre | d'accroitre | d'apprendre ...
+Le projet nous a permis d'acquérir d'autres compétences et plus particulièrement ce projet m'a permis de comprendre | d'accroitre | d'apprendre ...
 
 Parler des compétences acquises durant ce projet, ce que j'ai retenu et ce qui m'a permis d'acquérir ces compétences
-
-### HASKELL
-
-PARLER de mon expérience niveau maitre ...
 
 ### Développement d'une application Latice avec une interface graphique
 
@@ -77,21 +73,33 @@ PARLER de mon expérience niveau maitre ...
 Développement d’une application Latice avec une interface graphique en utilisant le logiciel « SceneBuilder» pour faciliter la création de l’interface et le gestionnaire de version git
 
 Ce projet consiste à développer une application avec une interface graphique du nom de **Latice**. Cette application a été réalisé en binôme et devait être faites en utilisant le langage Java pour déterminer la base métier de l'application et le langage JavaFX pour créer l'interface graphique. Durant ce projet, il a été difficile de s'organiser pour savoir qui faisait quoi sachant que l'on devait dans un premier temps faire la base métier de l'application Latice. Malgrè un début difficile nous avons avancé pas à pas et réussi à réaliser l'application. 
-Cependant, nous avons rencontrés plusieurs problèmes. Le premier est que nous avions mélangé le code de la base métier et celui de l'interface graphique. Par conséquent, nous avons dû revoir l'architecture de notre application, séparé la base métier de l'interface graphique et optimiser les temps d'exécution
+Cependant, nous avons rencontrés plusieurs problèmes. Le premier est que nous avions mélangé le code de la base métier et celui de l'interface graphique. Par conséquent, nous avons dû revoir l'architecture de notre application, séparé la base métier de l'interface graphique et optimiser les temps d'exécution.
 
 
 ### Installation d'un service réseau
 
 ![image](https://github.com/MathisBorger/Portfolio/assets/102658464/22ff6184-43ee-49e6-bde5-9fbfb0f3c1d5)
 
-Installation d’un service réseau avec une connexion sécurisée et un serveur DHCP
+Parmi les nombreux projets que j'ai pu faire, l'installation d'un service réseau est un projet dont je suis fière. J'ai eu l'occasion d'installer à deux reprises un service réseau, une installation avec une connexion internet autorisée sans restriction, tandis que l'autre est une installation avec une connexion internet controlée pour des raisons de sécurité.
+
+Dans le premier cas, il m'a été demandé ainsi qu'à mon équipe de tester dans une VM Kathara la nouvelle architecture d'une entreprise fictive pour vérifier son bon fonctionnement avant utilisation. La particularité de ce réseau est qu'il fallait ajouter un serveur DHCP allouant des adresses IP dans un sous-réseau et mettre en place une connexion sécurisée (SSH) qui permet à une machine cliente d'accéder à une machine employée. Il faut savoir que les machines employées et les machines clientes ne se trouvent pas dans le même réseau. Les machines clientes se trouvent dans un sous-réseau avec le serveur DHCP qui alloue des adresses IP aux machines clientes. D'un autre côté les machines employées se trouvent dans un sous-réseau qui leur est réservé et les machines clientes peuvent se connecter aux machines employées par une clé SSH.
+
+Dans le deuxième cas, il a été demandé à mon équipe de modéliser le réseau d'une autre entreprise fictive qui comprend plusieurs sous-réseaux dont un sous-réseau qui contient uniquement un serveur **S**  hébergeant une application nommée D-PAR. Notre objectif a été de mettre en place un filtrage sur les machines de façon à permettre aux machines de l'entreprise d'accéder à internet d'une façon contrôlée et de garantir une isolation de la machine **S** (donc le serveur) par rapport à l'extérieur tout en lui permettant de communiquer avec les machines de l'entreprise.
+
+Ces deux projets m'ont permis de comprendre les différents enjeux d'un service réseau ainsi que la rigueur et la précision à avoir pour satisfaire les besoins d'un client. J'ai pu grâce à ces projets valider les compétences suivantes :
+
+- Administrer des systèmes informatiques communicants complexes
+- Déployer des services dans une architecture réseau
+- Situer son rôle et ses missions au sein d'une équipe informatique
+
+
 
 
 ### Exploitation d'une base de données
 
 ![image](https://github.com/MathisBorger/Portfolio/assets/102658464/ea1cc447-7b03-4447-ad0c-f2dea6e68d44)
 
-Exploitation d’une base de données pour récupérer et interpréter les données en postegreSQL et visualiser les données graphiquement par des schémas*
+Exploitation d’une base de données pour récupérer et interpréter les données en postegreSQL et visualiser les données graphiquement par des schémas
 
 
 ### Conception et réalisation d'un forum
