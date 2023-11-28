@@ -61,8 +61,10 @@ Depuis mon arrivée à l’IUT Informatique de Limoges, j'ai eu l'occasion de r�
 
 ![image](https://github.com/MathisBorger/Portfolio/assets/102658464/93502d07-5a48-4034-afdc-f505633ed2a9)
 
-Pour ce premier projet que j'ai réalisé durant ma formation à l'IUT, je devais réaliser le développement de 4 jeux (Puissance4, Morpion, Allumettes, Devinette) en utilisant le langage Python. Ce projet a été réalisé en équipe avec un camarade classe afin qu'on puisse acquérir des connaissances et de l'expérience sur le travail d'équipe.
-Le projet nous a permis d'acquérir d'autres compétences et plus particulièrement ce projet m'a permis de comprendre | d'accroitre | d'apprendre ...
+Pour ce premier projet que j'ai réalisé durant ma formation à l'IUT, je devais réaliser le développement de 4 jeux (Puissance4, Morpion, Allumettes, Devinette) en utilisant le langage Python. Le client fictif a souhaité que nous créons 3 modes pour chaque jeu : Joueur VS Joueur, Joueur VS Robot, Robot VS Robot. Il voulait également un système de score pour afficher les meilleurs joueurs du jeu en question qui sera affiché lors de l'entrée dans le jeu.
+
+Ce projet a été réalisé en équipe avec un camarade classe afin qu'on puisse acquérir des connaissances et de l'expérience sur le travail d'équipe.
+Le projet nous a permis d'acquérir d'autres compétences et plus particulièrement ce projet m'a permis d'apprendre à m'organiser dumieux possible pour atteindre un objectif précis, répondre à des exigneces pour construire une application et des jeux fonctionnels ainsi qu'une IA qui m'a permis de voir les choses sous un autre angle.
 
 Parler des compétences acquises durant ce projet, ce que j'ai retenu et ce qui m'a permis d'acquérir ces compétences
 
