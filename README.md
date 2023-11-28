@@ -75,12 +75,19 @@ Développement d’une application Latice avec une interface graphique en utilis
 Ce projet consiste à développer une application avec une interface graphique du nom de **Latice**. Cette application a été réalisé en binôme et devait être faites en utilisant le langage Java pour déterminer la base métier de l'application et le langage JavaFX pour créer l'interface graphique. Durant ce projet, il a été difficile de s'organiser pour savoir qui faisait quoi sachant que l'on devait dans un premier temps faire la base métier de l'application Latice. Malgrè un début difficile nous avons avancé pas à pas et réussi à réaliser l'application. 
 Cependant, nous avons rencontrés plusieurs problèmes. Le premier est que nous avions mélangé le code de la base métier et celui de l'interface graphique. Par conséquent, nous avons dû revoir l'architecture de notre application, séparé la base métier de l'interface graphique et optimiser les temps d'exécution.
 
+IL FAUT REVOIR LE CONTENU DE CE PROJET AVEC LES FICHES SAE !!!!!
+
+L'application **Latice** m'a ainsi permis de valider les compétences : 
+
+- Réaliser un développement d'application
+- Optimiser des applicaion Informatiques
+
 
 ### Installation d'un service réseau
 
+ ![image](https://github.com/MathisBorger/Portfolio/assets/102658464/22ff6184-43ee-49e6-bde5-9fbfb0f3c1d5)
 
-
-Parmi les nombreux projets que j'ai pu faire, l'installation d'un service réseau est un projet dont je suis fière. J'ai eu l'occasion d'installer à deux reprises un service réseau, une installation avec une connexion internet autorisée sans restriction, tandis que l'autre est une installation avec une connexion internet controlée pour des raisons de sécurité. ![image](https://github.com/MathisBorger/Portfolio/assets/102658464/22ff6184-43ee-49e6-bde5-9fbfb0f3c1d5)
+Parmi les nombreux projets que j'ai pu faire, l'installation d'un service réseau est un projet dont je suis fière. J'ai eu l'occasion d'installer à deux reprises un service réseau, une installation avec une connexion internet autorisée sans restriction, tandis que l'autre est une installation avec une connexion internet controlée pour des raisons de sécurité.
 
 Dans le premier cas, il m'a été demandé ainsi qu'à mon équipe de tester dans une VM Kathara la nouvelle architecture d'une entreprise fictive pour vérifier son bon fonctionnement avant utilisation. La particularité de ce réseau est qu'il fallait ajouter un serveur DHCP allouant des adresses IP dans un sous-réseau et mettre en place une connexion sécurisée (SSH) qui permet à une machine cliente d'accéder à une machine employée. Il faut savoir que les machines employées et les machines clientes ne se trouvent pas dans le même réseau. Les machines clientes se trouvent dans un sous-réseau avec le serveur DHCP qui alloue des adresses IP aux machines clientes. D'un autre côté les machines employées se trouvent dans un sous-réseau qui leur est réservé et les machines clientes peuvent se connecter aux machines employées par une clé SSH.
 
@@ -99,8 +106,11 @@ Ces deux projets m'ont permis de comprendre les différents enjeux d'un service 
 
 ![image](https://github.com/MathisBorger/Portfolio/assets/102658464/ea1cc447-7b03-4447-ad0c-f2dea6e68d44)
 
-Exploitation d’une base de données pour récupérer et interpréter les données en postegreSQL et visualiser les données graphiquement par des schémas
+Ce projet de base de données a pour but de nous apprendre le postegreSQL, en faisant des diagrammes SQL pour créer et implémenter des tables dans un premier temps, puis de faire des requêtes SQL en utilisant le langage postegreSQL pour récupérer et interpréter lse données et dans un dernier temps, visualiser des données graphiquement par des schémas grâce à un logiciel.
 
+Suite à ce projet, j'ai eu l'occasion d'approfondir mes connaissances en SQL, notamment avec l'utilisation de syntaxe particulière qui permettent de simpifier des requêtes complexes et découvrir de nouvelles notions et perspertives d'utilisation du SQL. Ainsi la compétence que j'ai validé est : 
+
+- Gérer des donnnées de l'information
 
 ### Conception et réalisation d'un forum
 
@@ -109,7 +119,9 @@ Exploitation d’une base de données pour récupérer et interpréter les donn�
 Dans le cadre de la réalisation d'un forum, des groupes d'environ 15 personnes ont été formé pour préparer le forum. Chaucn des groupes avait pour mission d'appeler différents IUT, master ou école d'ingénieur pour que le forum puisse avoir lieu.
 Je faisais parti de l'un de ces groupes et nous devions nous répartir les tâches pour savoir notamment qui faisait quoi. Ce projet nous a demandé un gros effort d'organisation et de travail d'équipe pour que chacun est un rôle et qu'on puisse se comprendre les uns les autres. 
 
-Au travers de ce projet, j'ai pu acquérir une meilleure expérience et une meilleure vue d'ensemble ce que qu'est réellement le travail d'équipe dans la vie professionnel. Cela m'a permis dans le cadre de ma formation de valider <LA COMPETENCE>
+Au travers de ce projet, j'ai pu acquérir une meilleure expérience et une meilleure vue d'ensemble ce que qu'est réellement le travail d'équipe dans la vie professionnel. Cela m'a permis dans le cadre de ma formation de valider la compétence : 
+
+- Travailler dans une équipe informatique
 
 ## Compétences
 ...
