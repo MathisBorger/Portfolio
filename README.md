@@ -56,7 +56,7 @@ Depuis mon arrivée à l’IUT Informatique de Limoges, j'ai eu l'occasion de r�
 - [Exploitation d'une base de données](#exploitation-dune-base-de-données)
 - [Conception et réalisation d'un forum](#conception-et-réalisation-dun-forum)
 
-
+IL FAUT AJOUTER LES PROJETS SUR LE **HASKELL**, l'**ESCAPE GAME**, ****
 ### Application composée de plusieurs mini-jeux
 
 ![image](https://github.com/MathisBorger/Portfolio/assets/102658464/93502d07-5a48-4034-afdc-f505633ed2a9)
@@ -110,7 +110,7 @@ Ces deux projets m'ont permis de comprendre les différents enjeux d'un service 
 
 Ce projet de base de données a pour but de nous apprendre le postegreSQL, en faisant des diagrammes SQL pour créer et implémenter des tables dans un premier temps, puis de faire des requêtes SQL en utilisant le langage postegreSQL pour récupérer et interpréter lse données et dans un dernier temps, visualiser des données graphiquement par des schémas grâce à un logiciel.
 
-Suite à ce projet, j'ai eu l'occasion d'approfondir mes connaissances en SQL, notamment avec l'utilisation de syntaxe particulière qui permettent de simpifier des requêtes complexes et découvrir de nouvelles notions et perspertives d'utilisation du SQL. Ainsi la compétence que j'ai validé est : 
+Suite à ce projet, j'ai eu l'occasion d'approfondir mes connaissances en SQL, notamment avec l'utilisation de syntaxes particulière qui permettent de simpifier des requêtes complexes et découvrir de nouvelles notions et perspertives d'utilisation du SQL. Ainsi la compétence que j'ai validé est : 
 
 - Gérer des donnnées de l'information
 
