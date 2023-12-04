@@ -125,6 +125,23 @@ Au travers de ce projet, j'ai pu acquérir une meilleure expérience et une meil
 
 - Travailler dans une équipe informatique
 
+### Escape game
+
+![image](https://github.com/MathisBorger/Portfolio/assets/102658464/6c984228-3662-4100-9388-3c4a423e07f6)
+
+J'ai également réalisé un escape game, qui est **un des projets dont je suis le plus fière**, avec deux camarades de classe dans le cadre des journées portes ouvertes du département informatique de l'IUT du Limousin. Pour faire cette escape game, notre groupe de trois s'est orienté vers un site web, sur lequel les futurs étudiants pourront découvrir le département informatique et les différentes ressources mis en avant dans notre formation au travers d'énigmes se trouvant dans différentes salles de l'IUT.
+
+Le projet escape game m'a montré concrètement comment un projet en entreprise est traité et à quel point il est important de fournir un jeu (ou produit) fonctionnel pour le client. L'escape game ne devait comporter aucun bug indésirable ou autres problèmes sinon le client ne serait pas content, ce simple fait nous a forcé à être très très rigoureux sur l'implémentation et l'aspect fonctionnel du jeu et à penser à tous les choix possibles dans le jeu pour éviter des bugs inattendus. Le travail d'équipe dans notre groupe était primordial aussi pour nous répartir les tâches et être le plus efficaces possibles afin de fournir un jeu fonctionnel le plus rapidement possible : 
+
+- le scénariste : celui quiu crée le scénario de l'escape game et des différentes énigmes
+- le développeur au front : il produit le plus de fonctionnalités possible sans s'inquiéter s'il est optimiser ou non
+- le développeur en soutien : il revoit et oprimise le code du développeur au front
+
+Le projet escape game du début jusqu'à la fin a été une expérience enrichissante et m'a permis de valider les compétences suivantes : 
+
+- Appliquer une démarche de suivi de projet en fonction des besoins métiers des clients et des utilisateurs
+- Situer son rôle et ses missions au sein d'une équipe informatique
+
 ## Compétences
 ...
 c'est un récapitulatif
