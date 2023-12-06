@@ -1,22 +1,13 @@
 # Portfolio 2023-2024
 Suivez mon évolution professionnel au travers de mon portfolio (compétences, maitrise, ...)
 
-## Pour me contacter
-
-Si vous souhaitez me contacter, n'hésitez pas à utiliser l'une des méthodes suivantes :
-
-- **Email :** [mathisborger24@gmail.com](mailto:mathisborger24@gmail.com)
-- **LinkedIn :** [Mathis Borger](https://www.linkedin.com/in/mathis-borger-dev-logiciel/)
-- **Discord :** [thisma24](https://discord.com/users/thisma24)
-
-N'hésitez pas à me joindre pour discuter de projets, collaborations ou simplement pour échanger des idées.
-
 ## Table of Contents
 
 - [Qui-suis-je?](#qui-suis-je)
 - [Projets](#projets)
 - [Compétences](#compétences)
 - [Certifications](#certifications)
+- [Pou me contacter](#pour-me-contacter)
 
 ## Qui-suis-je?
 Bonjour,
@@ -34,9 +25,9 @@ Pour les personnes qui souhaite le savoir, mon classement au tennis est actuelle
 
 ### Mes lectures
 
-Depuis mes années de lycée, je lis énormément de mangas pour passer le temps quand je m'ennuie. Je lis des mangas en tout genre en français mais également en anglais. Indirectement mes lectures m'ont permis d'améliorer mon niveau d'anglais pour avoir un niveau plutôt décent.
+Depuis mes années de lycée, je lis énormément de mangas pour passer le temps lorsque je m'ennuie. Je lis des mangas en tout genre en français mais également en anglais. Indirectement mes lectures m'ont permis d'améliorer mon niveau d'anglais pour avoir un niveau plutôt décent.
 
-### Mon parcours d'informaticien
+### Le domaine informatique
 
 Cependant, le tennis et la lecture ne sont pas les seuls choses qui me caractérise. J'ai découvert le domaine informatique lors de ma première année de lycée en seconde. Depuis lors, l’informatique m’a toujours intéressé, j’aime enrichir ma culture informatique et m’informer des évolutions quand je travaille et de temps en temps chez moi. 
 // J'ai donc bien l'intention de continuer à évoluer dans ce domaine et découvrir
@@ -45,7 +36,9 @@ Cependant, le tennis et la lecture ne sont pas les seuls choses qui me caractér
 
 
 ## Parcours professionnel
-...
+Au cours de mon parcours académique, j'ai acquis une solide base éducative, débutant par l'obtention de mon diplôme de baccalauréat. Ma passion pour le domaine informatique m'a ensuite conduit à entreprendre deux années d'études universitaires, où j'ai consolidé mes connaissances et affiné mes compétences accompagnées d'un stage en entreprise où j'ai pu mettre en pratique mon savoir-faire et développer des compétences liées à mon environnement. Actuellement en troisième année, je me trouve en voie d'obtenir mon deuxième diplôme, le BUT informatique, en tant qu'alternant qui symbolise mon engagement dans une expérience professionnelle concrète et l'aboutissement de mes efforts jusqu'à aujourd'hui.
+
+Bien que mon expérience professionnelle puisse être limitée à ce stade, mes années universitaires ont été marquées par de nombreuses réalisations. J'ai été confronté à des projets académiques qui m'ont permis de développer ma capacité à résoudre des problèmes, à travailler en équipe et à communiquer efficacement. Ces compétences sont donc les piliers ou bien les fondations de mon parcours professionnel en devenir, où je cherche à appliquer et à développer davantage mes connaissances.
 
 ## Projets
 Depuis mon arrivée à l’IUT Informatique de Limoges, j'ai eu l'occasion de réaliser un grand nombre de projets très diversifiés touchant une bonne partie des domaines que regroupe l'informatique. Vous retrouverez la liste des projets que j'ai réalisé ci-dessous :
@@ -56,7 +49,7 @@ Depuis mon arrivée à l’IUT Informatique de Limoges, j'ai eu l'occasion de r�
 - [Exploitation d'une base de données](#exploitation-dune-base-de-données)
 - [Conception et réalisation d'un forum](#conception-et-réalisation-dun-forum)
 
-IL FAUT AJOUTER LES PROJETS SUR LE **HASKELL**, l'**ESCAPE GAME**, ****
+
 ### Application composée de plusieurs mini-jeux
 
 ![image](https://github.com/MathisBorger/Portfolio/assets/102658464/93502d07-5a48-4034-afdc-f505633ed2a9)
@@ -67,6 +60,7 @@ Ce projet a été réalisé en équipe avec un camarade classe afin qu'on puisse
 Le projet nous a permis d'acquérir d'autres compétences et plus particulièrement ce projet m'a permis d'apprendre à m'organiser dumieux possible pour atteindre un objectif précis, répondre à des exigneces pour construire une application et des jeux fonctionnels ainsi qu'une IA qui m'a permis de voir les choses sous un autre angle.
 
 Parler des compétences acquises durant ce projet, ce que j'ai retenu et ce qui m'a permis d'acquérir ces compétences
+
 
 ### Développement d'une application Latice avec une interface graphique
 
@@ -102,8 +96,6 @@ Ces deux projets m'ont permis de comprendre les différents enjeux d'un service 
 - Situer son rôle et ses missions au sein d'une équipe informatique
 
 
-
-
 ### Exploitation d'une base de données
 
 ![image](https://github.com/MathisBorger/Portfolio/assets/102658464/ea1cc447-7b03-4447-ad0c-f2dea6e68d44)
@@ -113,6 +105,7 @@ Ce projet de base de données a pour but de nous apprendre le postegreSQL, en fa
 Suite à ce projet, j'ai eu l'occasion d'approfondir mes connaissances en SQL, notamment avec l'utilisation de syntaxes particulière qui permettent de simpifier des requêtes complexes et découvrir de nouvelles notions et perspertives d'utilisation du SQL. Ainsi la compétence que j'ai validé est : 
 
 - Gérer des donnnées de l'information
+
 
 ### Conception et réalisation d'un forum
 
@@ -124,6 +117,7 @@ Je faisais parti de l'un de ces groupes et nous devions nous répartir les tâch
 Au travers de ce projet, j'ai pu acquérir une meilleure expérience et une meilleure vue d'ensemble ce que qu'est réellement le travail d'équipe dans la vie professionnel. Cela m'a permis dans le cadre de ma formation de valider la compétence : 
 
 - Travailler dans une équipe informatique
+
 
 ### Escape game
 
