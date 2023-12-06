@@ -7,12 +7,11 @@ Suivez mon évolution professionnel au travers de mon portfolio (compétences, m
 - [Projets](#projets)
 - [Compétences](#compétences)
 - [Certifications](#certifications)
-- [Pou me contacter](#pour-me-contacter)
+- [Pour me contacter](#pour-me-contacter)
 
 ## Qui-suis-je?
-Bonjour,
-Je m’appelle **BORGER Mathis**, j’ai 20 ans et je suis actuellement **étudiant à l’IUT Informatique de Limoges** en 3ème année.  
-Je suis un passionné du tennis depuis l’âge de 6 ans et je joue dans un club de tennis chaque semaine. Je lis également des mangas en français depuis le collège et en anglais depuis le lycée pour améliorer mon niveau d’anglais qui était très faible. 
+Bonjour, 
+je m’appelle **BORGER Mathis**, j’ai 20 ans et je suis actuellement **étudiant à l’IUT Informatique de Limoges** en 3ème année.  
 
 ### Mon parcours tennistique
 
@@ -136,13 +135,9 @@ Le projet escape game du début jusqu'à la fin a été une expérience enrichis
 - Appliquer une démarche de suivi de projet en fonction des besoins métiers des clients et des utilisateurs
 - Situer son rôle et ses missions au sein d'une équipe informatique
 
-## Compétences
-...
-c'est un récapitulatif
-
 ## Certifications
-...
-mettre tous les certificats / diplomes obtenus
+
+- Baccalauréat avec les options mathématiques et NSI (mention assez bien)
 
 ## Pour me contacter
 
