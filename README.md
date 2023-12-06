@@ -138,6 +138,7 @@ Le projet escape game du début jusqu'à la fin a été une expérience enrichis
 ## Certifications
 
 - Baccalauréat avec les options mathématiques et NSI (mention assez bien)
+- OPQUAST (assurance qualité web)
 
 ## Pour me contacter
 
