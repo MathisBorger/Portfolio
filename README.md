@@ -137,7 +137,7 @@ Le projet escape game du début jusqu'à la fin a été une expérience enrichis
 
 ## Fiches SAÉ
 
-Les compétences que j'ai cité au travers de mes projets, vous pourrez les retrouver dans mes fiches SAÉ qui regroupent toutes les compétences que j'ai validé depuis ma première année à l'IUT de Limoges en BUT Informatique dans des fichiers qui se trouve au format _Fiches_SAE_semestre_(numéro)_ .
+Les compétences que j'ai cité au travers de mes projets, vous pourrez les retrouver dans mes fiches SAÉ qui regroupent toutes les compétences que j'ai validé depuis ma première année à l'IUT de Limoges en BUT Informatique dans des fichiers qui se trouve au format __Fiches_SAE_semestre_(numéro)__ .
 
 ## Certifications
 
