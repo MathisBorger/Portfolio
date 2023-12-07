@@ -5,8 +5,8 @@ Suivez mon évolution professionnel au travers de mon portfolio (compétences, m
 
 - [Qui-suis-je?](#qui-suis-je)
 - [Projets](#projets)
-- [Compétences](#compétences)
-- [Fiches SAÉ](#fiches-saé)
+- [Compétences](#competences)
+- [Fiches SAÉ](#fiches-sae)
 - [Certifications](#certifications)
 - [Pour me contacter](#pour-me-contacter)
 
