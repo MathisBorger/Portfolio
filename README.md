@@ -126,19 +126,28 @@ J'ai également réalisé un escape game, qui est **un des projets dont je suis 
 
 Le projet escape game m'a montré concrètement comment un projet en entreprise est traité et à quel point il est important de fournir un jeu (ou produit) fonctionnel pour le client. L'escape game ne devait comporter aucun bug indésirable ou autres problèmes sinon le client ne serait pas content, ce simple fait nous a forcé à être très très rigoureux sur l'implémentation et l'aspect fonctionnel du jeu et à penser à tous les choix possibles dans le jeu pour éviter des bugs inattendus. Le travail d'équipe dans notre groupe était primordial aussi pour nous répartir les tâches et être le plus efficaces possibles afin de fournir un jeu fonctionnel le plus rapidement possible : 
 
-- le scénariste : celui quiu crée le scénario de l'escape game et des différentes énigmes
+- le scénariste : celui qui crée le scénario de l'escape game et des différentes énigmes
 - le développeur au front : il produit le plus de fonctionnalités possible sans s'inquiéter s'il est optimiser ou non
-- le développeur en soutien : il revoit et oprimise le code du développeur au front
+- le développeur en soutien : il revoit et optimise le code du développeur au front
 
 Le projet escape game du début jusqu'à la fin a été une expérience enrichissante et m'a permis de valider les compétences suivantes : 
 
 - Appliquer une démarche de suivi de projet en fonction des besoins métiers des clients et des utilisateurs
 - Situer son rôle et ses missions au sein d'une équipe informatique
 
+## Compétences
+
+### Compétences techniques
+
+- Langage de programmation : <img src="./images/html5-css3-js-removebg-preview.png" width="93.25" height="29"> <img src="./images/node_js-removebg-preview.png" width="60" height="29"> <img src="./images/php-removebg-preview.png" width="60" height="29"> <img src="./images/python-removebg-preview.png" width="32" height="29"> 
+- Framework : <img src="./images/Laravel2.svg.png" width="100" height="29"> <img src="./images/Symfony.svg.png" width="120" height="29"> <img src="./images/Kotlin.svg.png" width="120" height="29"> 
+
+
+
 ## Certifications
 
 - Baccalauréat avec les options mathématiques et NSI (mention assez bien)
-- OPQUAST (assurance qualité web)
+- OPQUAST (assurance qualité web) - score obtenue : 785 / 1000 points
 
 ## Pour me contacter
 
@@ -149,3 +158,13 @@ Si vous souhaitez me contacter, n'hésitez pas à utiliser l'une des méthodes s
 - **Discord :** [thisma24](https://discord.com/users/thisma24)
 
 N'hésitez pas à me joindre pour discuter de projets, collaborations ou simplement pour échanger des idées.
+
+# lien avec mon alternance
+
+La mission de mon alternance est la suivante : 
+
+```
+écrire ici la mission
+```
+
+Dans cette mission je vais devoir mettre en pratique plusieurs compétences apprises lors de ma formation. Je peux notamment citer les compétences de bases du développement Web (HTML, CSS, PHP, JS) mais également le Framework __Laravel__. Depuis peu, la société change totalement sa façon de développer car au lieu d'utiliser un __framework maison__, elle utilise maintenant un framework communautaire Laravel. Ladifférence dans ce changement c'est que la société n'aura plus le besoin de développer certaines fonctionnalités car elles ont déjà été développées et optimisées par le framework / la communauté.
