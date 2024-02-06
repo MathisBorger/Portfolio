@@ -135,7 +135,6 @@ Le projet escape game du début jusqu'à la fin a été une expérience enrichis
 - Appliquer une démarche de suivi de projet en fonction des besoins métiers des clients et des utilisateurs
 - Situer son rôle et ses missions au sein d'une équipe informatique
 
-<<<<<<< HEAD
 ## Compétences
 
 ### Compétences techniques
@@ -144,19 +143,14 @@ Le projet escape game du début jusqu'à la fin a été une expérience enrichis
 - Framework : <img src="./images/Laravel2.svg.png" width="100" height="29"> <img src="./images/Symfony.svg.png" width="120" height="29"> <img src="./images/Kotlin.svg.png" width="120" height="29"> 
 
 
-=======
 ## Fiches SAÉ
 
-Les compétences que j'ai cité au travers de mes projets, vous pourrez les retrouver dans mes fiches SAÉ qui regroupent toutes les compétences que j'ai validé depuis ma première année à l'IUT de Limoges en BUT Informatique dans des fichiers qui se trouve au format __Fiches_SAE_semestre_(numéro)__ .
->>>>>>> 7ee69f513e2751487811002e88f369d88c150814
+Les compétences que j'ai cité au travers de mes projets, vous pourrez les retrouver dans mes fiches SAÉ qui regroupent toutes les compétences que j'ai validé depuis ma première année à l'IUT de Limoges en BUT Informatique dans des fichiers qui se trouve au format *Fiches_SAE_semestre_(numéro)* .
 
 ## Certifications
 
 - Baccalauréat avec les options mathématiques et NSI (mention assez bien)
-<<<<<<< HEAD
 - OPQUAST (assurance qualité web) - score obtenue : 785 / 1000 points
-=======
->>>>>>> 7ee69f513e2751487811002e88f369d88c150814
 
 ## Pour me contacter
 
@@ -165,9 +159,6 @@ Si vous souhaitez me contacter, n'hésitez pas à utiliser l'une des méthodes s
 - **Email :** [mathisborger24@gmail.com](mailto:mathisborger24@gmail.com)
 - **LinkedIn :** [Mathis Borger](https://www.linkedin.com/in/mathis-borger-dev-logiciel/)
 - **Discord :** [thisma24](https://discord.com/users/thisma24)
-
-<<<<<<< HEAD
-N'hésitez pas à me joindre pour discuter de projets, collaborations ou simplement pour échanger des idées.
 
 # lien avec mon alternance
 
@@ -178,6 +169,3 @@ La mission de mon alternance est la suivante :
 ```
 
 Dans cette mission je vais devoir mettre en pratique plusieurs compétences apprises lors de ma formation. Je peux notamment citer les compétences de bases du développement Web (HTML, CSS, PHP, JS) mais également le Framework __Laravel__. Depuis peu, la société change totalement sa façon de développer car au lieu d'utiliser un __framework maison__, elle utilise maintenant un framework communautaire Laravel. Ladifférence dans ce changement c'est que la société n'aura plus le besoin de développer certaines fonctionnalités car elles ont déjà été développées et optimisées par le framework / la communauté.
-=======
-
->>>>>>> 7ee69f513e2751487811002e88f369d88c150814
