@@ -5,7 +5,7 @@ Suivez mon évolution professionnel au travers de mon portfolio (compétences, m
 
 - [Qui-suis-je?](#qui-suis-je)
 - [Projets](#projets)
-- [Compétences](#compétences)
+- [Fiches SAÉ](#fiches-saé)
 - [Certifications](#certifications)
 - [Pour me contacter](#pour-me-contacter)
 
@@ -29,7 +29,6 @@ Depuis mes années de lycée, je lis énormément de mangas pour passer le temps
 ### Le domaine informatique
 
 Cependant, le tennis et la lecture ne sont pas les seuls choses qui me caractérise. J'ai découvert le domaine informatique lors de ma première année de lycée en seconde. Depuis lors, l’informatique m’a toujours intéressé, j’aime enrichir ma culture informatique et m’informer des évolutions quand je travaille et de temps en temps chez moi. 
-// J'ai donc bien l'intention de continuer à évoluer dans ce domaine et découvrir
 
 ![image](https://github.com/MathisBorger/Portfolio/assets/102658464/be972b62-23b3-4662-8c2a-1b7c899170bb)
 
@@ -58,7 +57,10 @@ Pour ce premier projet que j'ai réalisé durant ma formation à l'IUT, je devai
 Ce projet a été réalisé en équipe avec un camarade classe afin qu'on puisse acquérir des connaissances et de l'expérience sur le travail d'équipe.
 Le projet nous a permis d'acquérir d'autres compétences et plus particulièrement ce projet m'a permis d'apprendre à m'organiser dumieux possible pour atteindre un objectif précis, répondre à des exigneces pour construire une application et des jeux fonctionnels ainsi qu'une IA qui m'a permis de voir les choses sous un autre angle.
 
-Parler des compétences acquises durant ce projet, ce que j'ai retenu et ce qui m'a permis d'acquérir ces compétences
+Cette application composée de 4 jeux m'a permis de développer les compétences : 
+
+- Réaliser un développement d'application
+- Optimiser des applications informatiques
 
 
 ### Développement d'une application Latice avec une interface graphique
@@ -69,8 +71,6 @@ Développement d’une application Latice avec une interface graphique en utilis
 
 Ce projet consiste à développer une application avec une interface graphique du nom de **Latice**. Cette application a été réalisé en binôme et devait être faites en utilisant le langage Java pour déterminer la base métier de l'application et le langage JavaFX pour créer l'interface graphique. Durant ce projet, il a été difficile de s'organiser pour savoir qui faisait quoi sachant que l'on devait dans un premier temps faire la base métier de l'application Latice. Malgrè un début difficile nous avons avancé pas à pas et réussi à réaliser l'application. 
 Cependant, nous avons rencontrés plusieurs problèmes. Le premier est que nous avions mélangé le code de la base métier et celui de l'interface graphique. Par conséquent, nous avons dû revoir l'architecture de notre application, séparé la base métier de l'interface graphique et optimiser les temps d'exécution.
-
-IL FAUT REVOIR LE CONTENU DE CE PROJET AVEC LES FICHES SAE !!!!!
 
 L'application **Latice** m'a ainsi permis de valider les compétences : 
 
@@ -103,7 +103,7 @@ Ce projet de base de données a pour but de nous apprendre le postegreSQL, en fa
 
 Suite à ce projet, j'ai eu l'occasion d'approfondir mes connaissances en SQL, notamment avec l'utilisation de syntaxes particulière qui permettent de simpifier des requêtes complexes et découvrir de nouvelles notions et perspertives d'utilisation du SQL. Ainsi la compétence que j'ai validé est : 
 
-- Gérer des donnnées de l'information
+- Gérer des données de l'information
 
 
 ### Conception et réalisation d'un forum
@@ -135,6 +135,7 @@ Le projet escape game du début jusqu'à la fin a été une expérience enrichis
 - Appliquer une démarche de suivi de projet en fonction des besoins métiers des clients et des utilisateurs
 - Situer son rôle et ses missions au sein d'une équipe informatique
 
+<<<<<<< HEAD
 ## Compétences
 
 ### Compétences techniques
@@ -143,11 +144,19 @@ Le projet escape game du début jusqu'à la fin a été une expérience enrichis
 - Framework : <img src="./images/Laravel2.svg.png" width="100" height="29"> <img src="./images/Symfony.svg.png" width="120" height="29"> <img src="./images/Kotlin.svg.png" width="120" height="29"> 
 
 
+=======
+## Fiches SAÉ
+
+Les compétences que j'ai cité au travers de mes projets, vous pourrez les retrouver dans mes fiches SAÉ qui regroupent toutes les compétences que j'ai validé depuis ma première année à l'IUT de Limoges en BUT Informatique dans des fichiers qui se trouve au format __Fiches_SAE_semestre_(numéro)__ .
+>>>>>>> 7ee69f513e2751487811002e88f369d88c150814
 
 ## Certifications
 
 - Baccalauréat avec les options mathématiques et NSI (mention assez bien)
+<<<<<<< HEAD
 - OPQUAST (assurance qualité web) - score obtenue : 785 / 1000 points
+=======
+>>>>>>> 7ee69f513e2751487811002e88f369d88c150814
 
 ## Pour me contacter
 
@@ -157,6 +166,7 @@ Si vous souhaitez me contacter, n'hésitez pas à utiliser l'une des méthodes s
 - **LinkedIn :** [Mathis Borger](https://www.linkedin.com/in/mathis-borger-dev-logiciel/)
 - **Discord :** [thisma24](https://discord.com/users/thisma24)
 
+<<<<<<< HEAD
 N'hésitez pas à me joindre pour discuter de projets, collaborations ou simplement pour échanger des idées.
 
 # lien avec mon alternance
@@ -168,3 +178,6 @@ La mission de mon alternance est la suivante :
 ```
 
 Dans cette mission je vais devoir mettre en pratique plusieurs compétences apprises lors de ma formation. Je peux notamment citer les compétences de bases du développement Web (HTML, CSS, PHP, JS) mais également le Framework __Laravel__. Depuis peu, la société change totalement sa façon de développer car au lieu d'utiliser un __framework maison__, elle utilise maintenant un framework communautaire Laravel. Ladifférence dans ce changement c'est que la société n'aura plus le besoin de développer certaines fonctionnalités car elles ont déjà été développées et optimisées par le framework / la communauté.
+=======
+
+>>>>>>> 7ee69f513e2751487811002e88f369d88c150814
